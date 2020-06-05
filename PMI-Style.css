@@ -1,0 +1,248 @@
+body {
+  margin: 0;
+  min-width: 960px;
+  font-size: 16px;
+  line-height: 32px;
+  font-family: 'Gabriela', serif;
+  background-color: white;
+  background-image: url("Image/07.jpg");
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.container {
+    max-width: 928px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+.page-header {
+    margin: 0 0 180px;
+    padding: 32px 0 32px;
+}
+
+.page-header .container,
+.page-footer .container {
+  max-width: 1408px;
+  text-align: right;
+}
+
+.page-header a {
+    margin-left: 56px;
+    color: white;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-position: left;
+    font-size: 20px;
+}
+
+.header-email {
+    padding-left: 30px;
+    background-image: url("img/icon-email.svg");
+  }
+
+.header-phone {
+    padding-left: 25px;
+    background-image: url("img/icon-phone.svg");
+  }
+
+.heading {
+    font-family:'Pattaya', sans-serif;
+}
+
+.hero-image {
+    margin-bottom: 480px;
+    color: #f2f2f2;
+    
+}
+
+.hero-image .container {
+    max-width: 1408px;
+    text-align: center;
+  }
+
+.user-image {
+  text-align: center;
+}
+
+.user-image img {
+  border-radius: 50%;
+  margin-top: 150px;
+
+
+}
+
+.heading {
+    margin: 0 0 24px;
+    font-size: 80px;
+    line-height: 96px;
+}
+
+.hero-image p {
+    margin: 0;
+    font-size: 32px;
+    line-height: 48px;
+  }
+
+  .intro {
+    margin: 0 0 120px;
+  }
+  
+  .into-text {
+    text-align: center;
+
+    margin-top: 100px;
+
+  }
+  nav {
+    text-align: center;
+    margin-top: 650px;
+  }
+
+  .nav-link {
+
+    color: rgba(216, 111, 113, 1);
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 35px;
+    margin: 10px;
+    padding: 10px;
+    font-family:'Pattaya', sans-serif;
+    
+  }
+
+  .nav-link:hover {
+
+    border-bottom: 2px solid rgba(216, 111, 113, 1);
+  }
+
+  .abaut-site {
+    font-family:'Pattaya', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    color: rgba(216, 111, 113, 1);
+    text-align: center;
+    margin-top: 50px;
+    
+  }
+
+
+  main {
+    margin-top: 300px;
+    max-width: 1000px;
+  }
+  .naturmorte {
+    text-align: center;
+  }
+
+  .naturmorts h2 {
+    max-height: 30px;
+    padding: 10px;
+    background-image: url(image/naturmorts.jpg);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family:'Pattaya', sans-serif;
+    font-size: 50px;
+  }
+
+  .naturmorts a {
+    padding: 18px;
+    
+  }
+
+  .naturmorts img {
+    margin-top: 36px;
+   
+
+  }
+
+  .naturmorts img:hover {
+    outline: 10px solid rgba(216, 111, 113, 1);
+  }
+
+  .paris-logo {
+    text-align: center;
+    margin-top: 300px;
+  }
+
+  .paris img {
+    text-align: center;
+    margin-top: 36px;
+    
+  }
+
+  .paris a {
+    text-align: center;
+  }
+  .figure-paris {
+    text-align: center;
+  }
+  .paris img:hover {
+    outline: 10px solid rgba(216, 111, 113, 1);
+  }
+
+  .pskov-logo {
+    text-align: center;
+    margin-top: 300px;
+  }
+
+  .pskov a {
+    padding: 18px;
+    
+  }
+  .pskov img {
+    margin-top: 36px;
+  }
+
+  .pskov img:hover {
+    outline: 10px solid rgba(216, 111, 113, 1);
+  }
+
+  .serbia-logo {
+    text-align: center;
+    margin-top: 300px;
+  }
+  .serbia a {
+    padding: 18px;
+    
+  }
+  .serbia img {
+    margin-top: 36px;
+  }
+
+  .serbia img:hover {
+    outline: 10px solid rgba(216, 111, 113, 1);
+  }
+
+  .chernogoria-logo {
+    text-align: center;
+    margin-top: 300px;
+  }
+  .chernogoria a {
+    padding: 18px;
+    
+  }
+  .chernogoria img {
+    margin-top: 36px;
+  }
+  .chernogoria img:hover {
+    outline: 10px solid rgba(216, 111, 113, 1);
+  } 
+
+  .page-footer p {
+    margin-left: 56px;
+    color: white;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-position: left;
+    font-size: 15px;
+  }
+  
+  .page-footer {
+    margin-top: 300px;
+     padding: 20px 0;
+     background-color:rgba(216, 111, 113, 1);
+     background-image: url("Image/07.jpg");
+  }
